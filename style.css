@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27-ago-2014, 12.15.41
+    Author     : Alessio
+*/
+
+h1
+{
+    
+    //color: darkcyan;
+    //background: darkcyan; /* Old browsers */
+    //background: -moz-linear-gradient(-45deg,  #efc5ca 0%, #d24b5a 50%, #ba2737 51%, #f18e99 100%);
+    
+    height:300px;
+}
+#menu ul
+{   
+    background-color: blue;
+    display: block;
+}
+#menu li
+{
+    display: inline;
+    margin: 0;
+    padding:0 8px;
+}
+
