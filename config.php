@@ -1,6 +1,6 @@
 <?php 
 
-$Host="http://spano.sc.unica.it/amm2014/piliAlessio"; 
+$Host="http://spano.sc.unica.it/amm2014/piliAlessio/amm1"; 
 $User="piliAlessio"; 
 $Password="pitone564"; 
 $db="amm14_piliAlessio"; 
