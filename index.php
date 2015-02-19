@@ -45,7 +45,7 @@ $q_c="SELECT * from canzone where Eliminata=0";
        print(" <td>$artista</td> "); 
         print(" <td>$album</td> "); 
          print(" <td>$anno</td> ");
-        print(" <td>$prezzo €</td> ");
+        print(" <td>$prezzo ï¿½</td> ");
          
                                        
   }
@@ -84,7 +84,7 @@ $q_c="SELECT * from canzone where Eliminata=0";
        print(" <td>$artista</td> "); 
         print(" <td>$album</td> "); 
          print(" <td>$anno</td> ");
-        print(" <td>$prezzo €</td> ");
+        print(" <td>$prezzo â‚¬</td> ");
          
                                        
   }
