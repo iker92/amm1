@@ -60,7 +60,7 @@
                                         
   print("<table align=\"center\" cellpadding=2 border=1> ") ;
    
-  print("<tr><td>ID ORDER</td><td>Titolo</td><td>Artista</td><td>Album</td><td>Anno</td><td>Prezzo</td><td>Status</td>  ") ; 
+  print("<tr><td>ID ORDER</td><td>Titolo</td><td>Artista</td><td>Prezzo</td><td>Status</td>  ") ; 
   while ($q_o=mysqli_fetch_array($risultatoo))
   
   {   $codicec=$q_o['Codice_Canzone'];
@@ -87,9 +87,7 @@ $q_c="SELECT * from canzone where Codice=$codicec";
      print(" <td>$codiceoo</td> "); 
       print(" <td>$titolo</td> "); 
        print(" <td>$artista</td> "); 
-        print(" <td>$album</td> "); 
-         print(" <td>$anno</td> ");
-        print(" <td>$prezzo €</td> ");
+        print(" <td>$prezzo ï¿½</td> ");
         
          if ($pay>0) { print(" <td>OK</td> "); } else {print(" <td><A href=\"paga.php?codice=$codiceoo\">Paga</a></td> "); }
         
