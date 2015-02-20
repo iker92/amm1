@@ -24,7 +24,7 @@
         <ul>
             <li>Visualizzare l'elenco delle canzoni</li>
             <li>Acquistare le canzoni</li>
-            <li>Visualizzare lo storico dei propri noleggi</li>
+            <li>Visualizzare lo storico dei propri acquisti</li>
         </ul>
     </p>
     <p>
@@ -37,7 +37,7 @@
     <li>Utilizzo di HTML e CSS</li>
     <li>Utilizzo di PHP e MySQL</li>
     <li>Due ruoli (cliente e amministratore)</li>
-    <li>Transazione per il salvataggio dell'acquisto della canzone (nelle pagine prenota.php / verifica_prenotazione.php)</li>
+    <li>Transazione per il salvataggio dell'acquisto della canzone (nelle pagine ordina.php / canzone2.php)</li>
 </ol>
 </p>
 <p>
