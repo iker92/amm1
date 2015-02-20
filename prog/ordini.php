@@ -50,7 +50,7 @@ $q_c="SELECT * from canzone where Codice=$codicec";
       print(" <td>$titolo</td> "); 
        print(" <td>$artista</td> "); 
         print(" <td>$dataa</td> "); 
-        print(" <td>$prezzo €</td> ");
+        print(" <td>$prezzo â‚¬</td> ");
         
          if ($pay>0) { print(" <td>PAGATO</td> "); } else {print(" <td>NON PAGATO</td> "); }
         
@@ -67,7 +67,7 @@ $q_c="SELECT * from canzone where Codice=$codicec";
   
                   }   ELSE {   print("<script>location.replace('index.php'); </script>"); }
                  
-include("down.php");   
+include("footer.php");   
  
 
             

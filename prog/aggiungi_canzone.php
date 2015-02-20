@@ -27,6 +27,6 @@ include("header.php");
      
         
    <?php           
-   include("down.php");   
+   include("footer.php");   
  
   

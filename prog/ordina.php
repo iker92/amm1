@@ -21,7 +21,7 @@ include("header.php");
   
                   }   ELSE {   print("<script>location.replace('index.php'); </script>"); }
                  
-include("down.php");   
+include("footer.php");   
  
 
             

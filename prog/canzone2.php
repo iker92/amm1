@@ -26,18 +26,6 @@ $q_="INSERT INTO canzone (Titolo,Artista,Album,Anno,Prezzo,Eliminata)
         {          print("ERRORE");   print(" <BR>$titolo <BR>$artista <BR>$album<BR> $anno<BR>$prezzo");            }          
        
         
-        
-         
-                    
-                                 
-                                                                     
-                                  
-                                 
-                                  
-                                  
-             
-                             
-             
-        include("down.php");   
+   include("footer.php");   
  
        
